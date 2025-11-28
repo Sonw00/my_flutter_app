@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+
+## Prerequisites
+
+```powershell
+> flutter run
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
